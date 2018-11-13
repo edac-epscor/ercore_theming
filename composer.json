@@ -9,7 +9,9 @@
       "url": "https://packages.drupal.org/8"
     }
   ],
-  "require": {},
+  "require": {
+    "drupal/menu_block": "^1.5"
+  },
   "minimum-stability": "dev",
   "prefer-stable": true,
   "config": {
