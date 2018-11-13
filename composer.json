@@ -1,0 +1,8 @@
+{
+  "name": "epscor/ercore_theming",
+  "description": "ERCore base theme settings",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
