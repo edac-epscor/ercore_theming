@@ -1,0 +1,31 @@
+favicon:
+  mimetype: image/vnd.microsoft.icon
+  path: ''
+  url: 'http://ercore8.dd:8083/themes/custom/ercore_boot/favicon.ico'
+  use_default: 1
+schemas:
+  bootstrap: 8000
+  ercore_boot: 8000
+features:
+  comment_user_picture: 1
+  comment_user_verification: 1
+  favicon: 1
+  node_user_picture: 1
+logo:
+  path: ''
+  url: ''
+  use_default: 1
+breadcrumb_home: 1
+region_wells:
+  navigation: ''
+  ercore: ''
+  navigation_collapsible: ''
+  header: ''
+  highlighted: ''
+  help: ''
+  content: ''
+  sidebar_first: ''
+  sidebar_second: well
+  footer: ''
+table_responsive: '-1'
+table: ''

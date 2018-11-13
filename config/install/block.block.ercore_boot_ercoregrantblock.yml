@@ -1,0 +1,19 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - ercore_core
+  theme:
+    - ercore_boot
+id: ercore_boot_ercoregrantblock
+theme: ercore_boot
+region: footer
+weight: -6
+provider: null
+plugin: ercore_grant_block
+settings:
+  id: ercore_grant_block
+  label: 'ERCore Grant Block'
+  provider: ercore_core
+  label_display: '0'
+visibility: {  }
