@@ -6,6 +6,7 @@ dependencies:
   - block
   - ercore_core
   - help
+  - menu_block
   - system
 version: 8.x-1.0
 package: ERCore
