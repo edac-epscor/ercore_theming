@@ -1,8 +1,18 @@
 {
   "name": "epscor/ercore_theming",
-  "description": "ERCore base theme settings",
+  "description": "Modules theming config",
   "type": "drupal-module",
   "license": "GPL-2.0+",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packages.drupal.org/8"
+    }
+  ],
+  "require": {},
   "minimum-stability": "dev",
-  "prefer-stable": true
+  "prefer-stable": true,
+  "config": {
+    "sort-packages": true
+  }
 }
