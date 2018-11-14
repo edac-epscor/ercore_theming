@@ -9,7 +9,7 @@ dependencies:
     - ercore_boot
 id: ercore_boot_main_menu
 theme: ercore_boot
-region: navigation
+region: navigation_collapsible
 weight: -6
 provider: null
 plugin: 'system_menu_block:main'
