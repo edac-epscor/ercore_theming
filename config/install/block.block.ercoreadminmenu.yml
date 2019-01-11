@@ -1,0 +1,26 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.ercore-admin-menu
+  module:
+    - menu_block
+  theme:
+    - ercore_boot
+id: ercoreadminmenu
+theme: ercore_boot
+region: navigation_collapsible
+weight: 0
+provider: null
+plugin: 'menu_block:ercore-admin-menu'
+settings:
+  id: 'menu_block:ercore-admin-menu'
+  label: 'ERCore Admin Menu'
+  provider: menu_block
+  label_display: '0'
+  level: 1
+  depth: 1
+  expand: 0
+  parent: 'ercore-admin-menu:ercore_core.ercore_content'
+  suggestion: ercore_admin_menu
+visibility: {  }
