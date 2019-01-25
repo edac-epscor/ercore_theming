@@ -1,0 +1,13 @@
+<?php
+
+/**
+ * @file
+ * The ercore_theming.install file for updates.
+ */
+
+/**
+ * Reverting feature during update.
+ */
+function ercore_theming_update_8001() {
+  \Drupal::service('config.installer')->installDefaultConfig('module', 'ercore_theming');
+}

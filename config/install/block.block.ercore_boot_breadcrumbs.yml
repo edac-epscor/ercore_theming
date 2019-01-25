@@ -8,7 +8,7 @@ dependencies:
 id: ercore_boot_breadcrumbs
 theme: ercore_boot
 region: content
-weight: -5
+weight: -6
 provider: null
 plugin: system_breadcrumb_block
 settings:

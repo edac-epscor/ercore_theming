@@ -1,4 +1,4 @@
-name: 'ERCore: Theming'
+name: 'ERCore Theming'
 type: module
 description: 'Theme settings for ERCore Boot'
 core: 8.x
